@@ -83,7 +83,7 @@ h5 {
         color: #fff;
         height: 100vh;
         height: 100%;
-        width: 100%;
+        max-width: 100%;
         li {
             border-bottom: 1px solid #ccc;
         }
@@ -118,7 +118,6 @@ h5 {
     }
     .container {
         margin: 0 129px;
-        width: 100%;
     }
     .content {
         h3 {
