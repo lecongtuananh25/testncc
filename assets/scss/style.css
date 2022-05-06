@@ -1064,6 +1064,7 @@ h5 {
   color: #fff;
   height: 100vh;
   height: 100%;
+  width: 100%;
 }
 .header__listnav li {
   border-bottom: 1px solid #ccc;
@@ -1098,6 +1099,7 @@ h5 {
 }
 .header .container {
   margin: 0 129px;
+  width: 100%;
 }
 .header .content h3 {
   font-size: 18px;
